@@ -28,7 +28,7 @@ export function Header() {
               <div className="absolute inset-0 bg-cyan-500 blur-xl opacity-20 group-hover:opacity-40 transition-opacity"></div>
             </div>
             <span className="text-xl font-bold bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent">
-              SecureAI
+              Seti Technology
             </span>
           </Link>
 

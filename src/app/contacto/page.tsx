@@ -87,8 +87,8 @@ export default function ContactoPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold mb-1">Email</h3>
-                    <p className="text-gray-400">contacto@secureai.com</p>
-                    <p className="text-gray-400">ventas@secureai.com</p>
+                    <p className="text-gray-400">cseti_technology@outlook.com</p>
+                    <p className="text-gray-400">seti_technology@outlook.com</p>
                   </div>
                 </Card>
 
@@ -98,8 +98,8 @@ export default function ContactoPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold mb-1">Teléfono</h3>
-                    <p className="text-gray-400">+52 (55) 1234-5678</p>
-                    <p className="text-gray-400">+1 (555) 123-4567</p>
+                    <p className="text-gray-400">+51 914 725 255</p>
+                    <p className="text-gray-400">+51 914 725 255</p>
                   </div>
                 </Card>
 
@@ -109,8 +109,8 @@ export default function ContactoPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold mb-1">Oficinas</h3>
-                    <p className="text-gray-400">Ciudad de México, México</p>
-                    <p className="text-gray-400">Av. Reforma 123, Col. Centro</p>
+                    <p className="text-gray-400">Lima, Perú</p>
+                    <p className="text-gray-400">Av. Indicar Dirección</p>
                   </div>
                 </Card>
               </div>

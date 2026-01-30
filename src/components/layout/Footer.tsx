@@ -13,7 +13,7 @@ export function Footer() {
             <Link href="/" className="flex items-center space-x-2 group mb-4">
               <Shield className="w-8 h-8 text-cyan-500" />
               <span className="text-xl font-bold bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent">
-                SecureAI
+                Seti Technology
               </span>
             </Link>
             <p className="text-gray-400 text-sm mb-4">
@@ -95,15 +95,15 @@ export function Footer() {
             <ul className="space-y-3">
               <li className="flex items-start space-x-2 text-gray-400 text-sm">
                 <Mail className="w-4 h-4 mt-0.5 text-cyan-500" />
-                <span>contacto@secureai.com</span>
+                <span>seti_technology@outlook.com</span>
               </li>
               <li className="flex items-start space-x-2 text-gray-400 text-sm">
                 <Phone className="w-4 h-4 mt-0.5 text-cyan-500" />
-                <span>+1 (555) 123-4567</span>
+                <span>+51 914 725 255</span>
               </li>
               <li className="flex items-start space-x-2 text-gray-400 text-sm">
                 <MapPin className="w-4 h-4 mt-0.5 text-cyan-500" />
-                <span>Ciudad de México, México</span>
+                <span>Lima, Perú</span>
               </li>
             </ul>
           </div>
@@ -111,7 +111,7 @@ export function Footer() {
 
         <div className="border-t border-gray-800 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 text-sm">
-            © {currentYear} SecureAI. Todos los derechos reservados.
+            © {currentYear} Seti Technology. Todos los derechos reservados.
           </p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <Link href="/privacidad" className="text-gray-400 hover:text-cyan-500 text-sm transition-colors">
